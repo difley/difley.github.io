@@ -1,0 +1,32 @@
+---
+title: tests
+---
+
+Test 1
+label_with_underscores doesn't get italicized
+
+Test 2
+http://difley.org is automatically linked
+
+Test 3
+The next ~~word~~ will be struck-through.
+
+Test 4
+```
+def Test4():
+    return True
+```
+
+Test 5
+```python
+def PythonCode():
+   return None
+```
+
+Test 6
+Actions  | Consequences
+------------- | -------------|
+TDD  | Write code that does what you wanted|
+Listen to product owners | Write code that does what they wanted|
+
+
